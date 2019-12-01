@@ -1,0 +1,52 @@
+I"�<blockquote>
+  <p>离开世界之前，一切都是过程。</p>
+</blockquote>
+
+<p>Hi，我是ZweigLi</p>
+
+<h5 id="编程语言倾向">编程语言倾向</h5>
+
+<p>我倾向于 ML（“Meta Language”）等「函数式编程为主（mostly functional programming）」风格的编程语言，所以也就不难理解我的很多选择了：JavaScript 于动态类型、Scala 于 JVM 语言、Rust 于非托管语言等。</p>
+
+<blockquote>
+  <p><strong>从左到右</strong> 为喜欢程度，<strong>从上到下</strong> 为了解程度，</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>💔️</th>
+      <th>❤️ ️</th>
+      <th>❤️❤️ ️</th>
+      <th>❤️❤️❤️ ️</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>😅</td>
+      <td><code class="highlighter-rouge">NONE</code></td>
+      <td><code class="highlighter-rouge">PHP</code></td>
+      <td><code class="highlighter-rouge">JAVA</code> <code class="highlighter-rouge">PYTHON</code></td>
+      <td><code class="highlighter-rouge">NONE</code></td>
+    </tr>
+    <tr>
+      <td>😏</td>
+      <td><code class="highlighter-rouge">NONE</code></td>
+      <td><code class="highlighter-rouge">C</code> <code class="highlighter-rouge">C#</code></td>
+      <td><code class="highlighter-rouge">Typed JS*</code></td>
+      <td><code class="highlighter-rouge">NONE</code></td>
+    </tr>
+    <tr>
+      <td>🤓</td>
+      <td><code class="highlighter-rouge">NONE</code></td>
+      <td><code class="highlighter-rouge">PHP</code></td>
+      <td><code class="highlighter-rouge">ECMAScript6</code></td>
+      <td><code class="highlighter-rouge">NONE</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<h5 id="other-more">OTHER MORE</h5>
+
+:ET
