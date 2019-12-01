@@ -1,11 +1,7 @@
 ---
-title: Gradle项目与Maven项目互转
----
-
----
 layout:     post
 title:      "Gradle项目与Maven项目互转"
-subtitle:   " \"笔记\""
+subtitle:   "笔记"
 date:       2019-12-1 19:57:30
 author:     "Zweig"
 header-img: "img/post-bg-2015.jpg"
