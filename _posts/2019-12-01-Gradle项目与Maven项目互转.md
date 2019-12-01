@@ -11,6 +11,7 @@ tags:
 - gradle
 - maven
 - code
+- java
 ---
 在build.gradle中增加以下内容
 ```java
