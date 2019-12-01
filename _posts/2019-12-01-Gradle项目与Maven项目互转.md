@@ -1,17 +1,16 @@
 ---
 layout:     post
 title:      "Gradle项目与Maven项目互转"
-subtitle:   "笔记"
+subtitle:   "\"笔记\""
 date:       2019-12-1 19:57:30
 author:     "Zweig"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Gradle
-    -idea
-		-Maven
-		-code
-		-笔记
+- 笔记
+- gradle
+- maven
+- code
 ---
 在build.gradle中增加以下内容
 ···java
